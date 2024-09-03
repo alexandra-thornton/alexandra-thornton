@@ -1,11 +1,12 @@
-![Image of Alexandra Thornton](Images/headshoy.png https://github.com/user-attachments/assets/a5207121-a5fd-4125-aac0-d5013bfe1661)
+![Image of Alexandra Thornton](images/headshot.png "REPLACE_WITH_SHORT_DESCRIPTION")
 
 
 ## About Me
 I am a Master's student in the UConn EEB department interested in Caterpillars!
 
 
-[My CV](PDFs/cv.pdf [Alexandra Thornton CV.docx](https://github.com/user-attachments/files/16852481/Alexandra.Thornton.CV.docx)
+
+[My CV](PDFs/cv.pdf)
 
 [Contact Info](contact-info.html) 
 

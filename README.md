@@ -4,7 +4,8 @@
 ## About Me
 I am a Master's student in the UConn EEB department interested in Caterpillars!
 
-[My CV](PDFs/cv.pdf)
+
+[My CV](PDFs/cv.pdf [Alexandra Thornton CV.docx](https://github.com/user-attachments/files/16852481/Alexandra.Thornton.CV.docx)
 
 [Contact Info](contact-info.html) 
 

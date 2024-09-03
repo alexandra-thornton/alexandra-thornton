@@ -1,5 +1,5 @@
-![Image of Alexandra Thornton](![ID PHOTO](https://github.com/user-attachments/assets/a5207121-a5fd-4125-aac0-d5013bfe1661)
- "REPLACE_WITH_SHORT_DESCRIPTION")
+(https://github.com/user-attachments/assets/a5207121-a5fd-4125-aac0-d5013bfe1661)
+
 
 ## About Me
 I am a Master's student in the UConn EEB department interested in Caterpillars!
